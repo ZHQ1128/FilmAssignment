@@ -1,0 +1,7 @@
+C:\Users\zhang\source\repos\FilmAssignment\FilmAssignment\bin\Debug\FilmAssignment.exe.config
+C:\Users\zhang\source\repos\FilmAssignment\FilmAssignment\bin\Debug\FilmAssignment.exe
+C:\Users\zhang\source\repos\FilmAssignment\FilmAssignment\bin\Debug\FilmAssignment.pdb
+C:\Users\zhang\source\repos\FilmAssignment\FilmAssignment\obj\Debug\FilmAssignment.csprojResolveAssemblyReference.cache
+C:\Users\zhang\source\repos\FilmAssignment\FilmAssignment\obj\Debug\FilmAssignment.csproj.CoreCompileInputs.cache
+C:\Users\zhang\source\repos\FilmAssignment\FilmAssignment\obj\Debug\FilmAssignment.exe
+C:\Users\zhang\source\repos\FilmAssignment\FilmAssignment\obj\Debug\FilmAssignment.pdb
